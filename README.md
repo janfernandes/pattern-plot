@@ -1,6 +1,7 @@
 
 # Python Plot Pattern Examples
 
-Toy data - ![](./pattern-plot/try.png)
-
-![](./pattern-plot/triplot.png)
+<p float="left">
+  <img src="/try.png" width="300" />
+  <img src="/triplot.png" width="350" />
+</p>
